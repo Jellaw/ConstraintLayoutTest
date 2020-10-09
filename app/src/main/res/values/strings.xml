@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConstraintLayoutTest</string>
+    <string name="app_header">header</string>
+    <string name="nameheader">Tree</string>
+    <string name="camera">Camera</string>
+    <string name="setting">Setting</string>
+    <string name="typecam">HTC 10</string>
+    <string name="settingcam">f/1,8  1/13  4,58mm</string>
+    <string name="discard">Discard</string>
+    <string name="upload">Upload</string>
+    <string name="noidung">In botany, a tree is a perennial plant with an elongated stem, or trunk, supporting branches and leaves in most species. In some usages, the definition of a tree may be narrower, including only woody plants with secondary growth, plants that are usable as lumber or plants above a specified height. In wider definitions, the taller palms, tree ferns, bananas, and bamboos are also trees. Trees are not a taxonomic group but include a variety of plant species that have independently evolved a trunk and branches as a way to tower above other plants to compete for sunlight. Trees tend to be long-lived, some reaching several thousand years old. Trees have been in existence for 370 million years. It is estimated that there are just over 3 trillion mature trees in the world.[1]</string>
+</resources>

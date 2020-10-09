@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConstraintLayoutTest</string>
+    <string name="app_header">header</string>
+    <string name="nameheader">Devil May Cry 5</string>
+    <string name="camera">Camera</string>
+    <string name="setting">Cài đặt</string>
+    <string name="typecam">HTC 10</string>
+    <string name="settingcam">f/1,8  1/13  4,58mm</string>
+    <string name="discard">Discard</string>
+    <string name="upload">Upload</string>
+    <string name="noidung">Devil May Cry 5 là một trò chơi video hack và slash phiêu lưu hành động được phát triển và phát hành bởi Capcom. Đây là phần thứ sáu trong nhượng quyền thương mại và phần thứ năm của loạt phim chính Devil May Cry. Capcom đã phát hành nó cho Microsoft Windows, PlayStation 4 và Xbox One vào ngày 8 tháng 3 năm 2019.</string>
+</resources>
